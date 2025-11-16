@@ -1,7 +1,7 @@
 <br clear="both">
 <h1>  <strong>Higor | FullStack Developer</strong> </h1>
 <h2>A Little About Me:</h2>
-- 📚 (A2) Basic Level in English <br>
+
 - Interested in FullStack development and developing web solutions. <br>
 - Working to solve technology problems and viable solutions for use.  <br>
 - Currently studying Systems Development at ETEC da Zona Leste  <br>
