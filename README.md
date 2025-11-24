@@ -36,7 +36,7 @@
 </div>
   <h2>Tools:</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,figma,linux" align="center" /> <br> <br> 
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,kali" align="center" /> <br> <br> 
    <br>
 </div> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f05300&height=135&section=footer"/>
