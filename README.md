@@ -1,8 +1,8 @@
 <br clear="both">
-<h1>  <strong>Higor | FullStack Developer</strong> </h1>
+<h1>  <strong>Higor | Backend Developer</strong> </h1>
 <h2>A Little About Me:</h2>
 
-- Interested in FullStack development and developing web solutions. <br>
+- Interested in Backend development and network infrastructure <br>
 - Working to solve technology problems and viable solutions for use.  <br>
 - Currently studying Systems Development at ETEC da Zona Leste  <br>
 - IA enthusiast – I`m enhancing my Back-End and Front-End skills. <br>
